@@ -27,10 +27,10 @@ function renderAlbums(albumsList) {
 
         div.innerHTML = `
             <img src="${album.thumbnail}" alt="${album.name}" 
-                style="width: 200px; height: 150px; object-fit: cover; border-radius: 8px;">
+                style="width: 300px; height: 300px; object-fit: cover; border-radius: 8px;">
             <h3>${album.name}</h3>
             <img class="qr-code" src="${generateQRCode(album.url)}" 
-                alt="QR Code" style="width: 80px; height: 80px; margin-top: 10px;">
+                alt="QR Code" style="width: 300px; height: 300px; margin-top: 10px;">
             <a href="${album.url}" target="_blank">📂 Open Album</a>
         `;
 
