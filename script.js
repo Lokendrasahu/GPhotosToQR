@@ -6,8 +6,8 @@ const albums = [
     },
      {
          name: "private Album",
-         url: "https://photos.app.goo.gl/YOUR_ALBUM_LINK2",
-         thumbnail: "https://example.com/album2-thumbnail.jpg"
+         url: "https://photos.app.https://photos.app.goo.gl/rVHbjuQz9pTp4iS3A.gl/YOUR_ALBUM_LINK2",
+         thumbnail: "https://lh3.googleusercontent.com/pw/AP1GczO0CtWBvJQOu1FS3gnWVBbiS130a_h18mazLuUHLv7VqtuHmnqtV0Flc9RfklDugjBAjVno69TJg7J854TU19D_WNLpEqojhhBQysA5szXEBPNHl0WIGZ16HKy2dROm1lZTQmAj5BWPEfrhpmQ-pbjN=w905-h616-s-no-gm?authuser=0"
      }
 ];
 
