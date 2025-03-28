@@ -6,7 +6,7 @@ const albums = [
     },
      {
          name: "private Album",
-         url: "https://photos.google.com/share/AF1QipPobuJRo9fQPlBSGH5faEMmIZoetoO-SBoK-bT3rPLMuZEXRzSdXN26CJ9HpYFdug?key=blNEbE1HNHA2Ri1ERzgyU0VnSC1HbnZpU0NJb3ZR",
+         url: "https://photos.app.goo.gl/rVHbjuQz9pTp4iS3A",
          thumbnail: "https://lh3.googleusercontent.com/pw/AP1GczO0CtWBvJQOu1FS3gnWVBbiS130a_h18mazLuUHLv7VqtuHmnqtV0Flc9RfklDugjBAjVno69TJg7J854TU19D_WNLpEqojhhBQysA5szXEBPNHl0WIGZ16HKy2dROm1lZTQmAj5BWPEfrhpmQ-pbjN=w905-h616-s-no-gm?authuser=0"
      }
 ];
