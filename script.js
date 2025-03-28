@@ -5,7 +5,7 @@ const albums = [
         thumbnail: "https://lh3.googleusercontent.com/pw/AP1GczMyAbyjxOQfhoj7tVM7CHZOplyTjDyD9aQcbfo5YNVRHUmkzboOaPH77cubr-hFK8Wg0W3Iasggcjihcw5LhCTd3SfFR1xI-LiHvdHuTQY23f3VP5DbPzsoG6uq_XYgCdFdfJRqpjk-jC5FJXwNrA_0=w411-h616-s-no-gm?authuser=0"
     },
      {
-         name: "private Album",
+         name: "only for family Album",
          url: "https://photos.app.goo.gl/rVHbjuQz9pTp4iS3A",
          thumbnail: "https://lh3.googleusercontent.com/pw/AP1GczO0CtWBvJQOu1FS3gnWVBbiS130a_h18mazLuUHLv7VqtuHmnqtV0Flc9RfklDugjBAjVno69TJg7J854TU19D_WNLpEqojhhBQysA5szXEBPNHl0WIGZ16HKy2dROm1lZTQmAj5BWPEfrhpmQ-pbjN=w905-h616-s-no-gm?authuser=0"
      }
