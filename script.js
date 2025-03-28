@@ -13,7 +13,7 @@ const albums = [
 
 // Function to generate QR Code
 function generateQRCode(url) {
-    return `https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=${encodeURIComponent(url)}`;
+    return `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(url)}`;
 }
 
 // Function to display albums
