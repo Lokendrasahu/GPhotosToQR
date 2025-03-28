@@ -26,7 +26,7 @@ function displayAlbums() {
         div.classList.add("album");
 
         div.innerHTML = `
-            <img src="${album.thumbnail}" alt="${album.name}" style="max-width: 200px; max-height: 150px; object-fit: cover;">
+            <img src="${album.thumbnail}" alt="${album.name}">
             <h3>${album.name}</h3>
             <img class="qr-code" src="${generateQRCode(album.url)}" alt="QR Code">
             <a href="${album.url}" target="_blank">📂 Open Album</a>
