@@ -5,7 +5,7 @@ const albums = [
         thumbnail: "https://lh3.googleusercontent.com/pw/AP1GczMyAbyjxOQfhoj7tVM7CHZOplyTjDyD9aQcbfo5YNVRHUmkzboOaPH77cubr-hFK8Wg0W3Iasggcjihcw5LhCTd3SfFR1xI-LiHvdHuTQY23f3VP5DbPzsoG6uq_XYgCdFdfJRqpjk-jC5FJXwNrA_0=w411-h616-s-no-gm?authuser=0"
     },
      {
-         name: "Engagement Album",
+         name: "private Album",
          url: "https://photos.app.goo.gl/YOUR_ALBUM_LINK2",
          thumbnail: "https://example.com/album2-thumbnail.jpg"
      }
